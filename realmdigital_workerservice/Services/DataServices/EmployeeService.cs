@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
-using realmdigital_workerservice.Inerfaces;
+using realmdigital_workerservice.Interfaces;
 using realmdigital_workerservice.Models;
 using System;
 using System.Collections;

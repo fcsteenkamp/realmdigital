@@ -7,7 +7,7 @@ using MailKit.Net.Smtp;
 using MailKit.Security;
 using Microsoft.Extensions.Options;
 using MimeKit;
-using realmdigital_workerservice.Inerfaces;
+using realmdigital_workerservice.Interfaces;
 using realmdigital_workerservice.Models;
 
 namespace realmdigital_workerservice.Services.UtilityServices

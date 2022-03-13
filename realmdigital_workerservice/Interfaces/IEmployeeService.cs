@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace realmdigital_workerservice.Inerfaces
+namespace realmdigital_workerservice.Interfaces
 {
     public interface IEmployeeService
     {

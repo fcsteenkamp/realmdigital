@@ -50,3 +50,4 @@ C:\Users\FC\source\repos\realmdigital_tasker\realmdigital_workerservice\bin\Debu
 C:\Users\FC\source\repos\realmdigital_tasker\realmdigital_workerservice\bin\Debug\net5.0\BouncyCastle.Crypto.dll
 C:\Users\FC\source\repos\realmdigital_tasker\realmdigital_workerservice\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\FC\source\repos\realmdigital_tasker\realmdigital_workerservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\FC\source\repos\realmdigital_tasker\realmdigital_workerservice\obj\Debug\net5.0\realmdigital_workerservice.csproj.AssemblyReference.cache

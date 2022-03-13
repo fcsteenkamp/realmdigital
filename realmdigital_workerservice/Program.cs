@@ -1,7 +1,7 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using realmdigital_workerservice.Inerfaces;
+using realmdigital_workerservice.Interfaces;
 using realmdigital_workerservice.Models;
 using realmdigital_workerservice.Services.DataServices;
 using realmdigital_workerservice.Services.UtilityServices;

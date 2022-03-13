@@ -7,7 +7,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.Extensions.DependencyInjection;
-using realmdigital_workerservice.Inerfaces;
+using realmdigital_workerservice.Interfaces;
 
 namespace realmdigital_workerservice
 {

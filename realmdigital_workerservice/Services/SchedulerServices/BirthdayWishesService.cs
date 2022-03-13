@@ -1,6 +1,6 @@
 ﻿using Cronos;
 using Microsoft.Extensions.Logging;
-using realmdigital_workerservice.Inerfaces;
+using realmdigital_workerservice.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
